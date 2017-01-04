@@ -4,8 +4,8 @@ layoutdir: "layouts"
 publishdir: "public"
 indexes:
   category: "categories"
-baseurl: "http://spencerlyon2.github.io/hugo_gh_blog"
-title: "Hugo Blog Template for GitHub Pages"
+baseurl: "https://kyriedriftwood.github.io/testsite/"
+title: "testsite"
 canonifyurls: true
 theme: "Lanyon"
 ...
